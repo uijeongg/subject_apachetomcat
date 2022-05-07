@@ -7,6 +7,6 @@
 
 
 ### 2. [Oracle Weblogic 설치 및 App deploy](https://www.youtube.com/watch?v=Uo6QN52yjBU)
-
+<img src="image1.jpg" /> <br>
 
 ### 3. [Google Cloud Platform, Apache-Tomcat 연동 후 app deploy](https://www.youtube.com/watch?v=H_f_AQ6jchk&t=1s)
